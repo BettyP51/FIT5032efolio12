@@ -1,0 +1,29 @@
+{
+  "header": {
+    "home": "主页",
+    "service": "服务",
+    "resource_center": "资源中心",
+    "about_us": "关于我们",
+    "contact_us": "联系我们",
+    "login": "登录",
+    "sign_up": "注册"
+  },
+  "footer": {
+    "contact": "联系我们",
+    "privacy_policy": "隐私政策",
+    "terms_of_service": "服务条款"
+  },
+  "welcome_message": {
+    "title": "欢迎来到澳大利亚移民社区",
+    "description": "我们尊重并庆祝多样性，并致力于支持来自世界各地的移民。我们努力创建一个用户友好的在线平台，支持多种语言，并适合具有不同数字素养水平的用户。通过提供覆盖健康、法律服务、语言学习等方面的集中信息中心，我们帮助大家更好地融入澳大利亚的新环境，并建立一个包容且繁荣的社区。"
+  },
+  "errors": {
+    "page_not_found": "页面未找到",
+    "server_error": "服务器内部错误"
+  },
+  "buttons": {
+    "search": "搜索",
+    "submit": "提交",
+    "cancel": "取消"
+  }
+}

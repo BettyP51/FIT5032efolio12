@@ -1,0 +1,30 @@
+{
+  "header": {
+    "home": "Home",
+    "service": "Service",
+    "resource_center": "Resource Center",
+    "about_us": "About Us",
+    "contact_us": "Contact Us",
+    "login": "Login",
+    "sign_up": "Sign Up"
+  },
+  "footer": {
+    "contact": "Contact Us",
+    "privacy_policy": "Privacy Policy",
+    "terms_of_service": "Terms of Service"
+  },
+  "welcome_message": {
+    "title": "Welcome to the Australia Migrant Community",
+    "description": "We respect and celebrate diversity, and are committed to supporting migrants from all over the world. We strive to create a user-friendly online platform that supports multiple languages and is suitable for users with varying levels of digital literacy. By providing a centralized information hub that covers health, legal services, language learning, and more, we help everyone better integrate into their new environment in Australia and build an inclusive and thriving community."
+  },
+  "errors": {
+    "page_not_found": "Page Not Found",
+    "server_error": "Internal Server Error"
+  },
+  "buttons": {
+    "search": "Search",
+    "submit": "Submit",
+    "cancel": "Cancel"
+  }
+}
+
