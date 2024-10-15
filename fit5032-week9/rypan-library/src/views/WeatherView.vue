@@ -29,7 +29,7 @@
   <script>
 import axios from "axios";
 
-const apikey = "fda48999cbae2fbb4fe00d6229dc7c6b";
+const apikey = import.meta.env.VITE_API_KEY;
 
 export default {
   name: "WeatherView",
