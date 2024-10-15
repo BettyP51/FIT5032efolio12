@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import BHeader from './components/BHeader.vue';
+import BHeader from './components/Bheader.vue';
 import CountBookAPI from './views/CountBookAPI.vue'; 
 
 export default {
