@@ -18,7 +18,7 @@ import CountBookAPI from './views/CountBookAPI.vue';
 export default {
   name: 'App',
   components: {
-    BHeader,
+    Bheader,
     CountBookAPI,
   },
   computed: {
