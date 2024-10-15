@@ -1,7 +1,7 @@
 <template>
   <div class="main-container">
     <header v-if="showHeader">
-      <BHeader />
+      <Bheader />
     </header>
     <main class="main-box">
       <!-- <LibraryRegistrationForm /> -->
