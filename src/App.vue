@@ -1,8 +1,8 @@
 <template>
   <div class="main-container">
-    <header v-if="showHeader">
+    <Bheader v-if="showHeader">
       <Bheader />
-    </header>
+    </Bheader>
     <main class="main-box">
       <!-- <LibraryRegistrationForm /> -->
       <!-- <JSONLab /> -->
@@ -19,6 +19,7 @@ export default {
   name: 'App',
   components: {
     Bheader,
+    // eslint-disable-next-line vue/no-unused-components
     CountBookAPI,
   },
   computed: {
