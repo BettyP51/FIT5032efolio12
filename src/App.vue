@@ -1,8 +1,8 @@
 <template>
   <div class="main-container">
-    <Bheader v-if="showHeader">
-      <Bheader />
-    </Bheader>
+    <BHeader v-if="showHeader">
+      <BHeader />
+    </BHeader>
     <main class="main-box">
       <!-- <LibraryRegistrationForm /> -->
       <!-- <JSONLab /> -->
@@ -12,13 +12,13 @@
 </template>
 
 <script>
-import Bheader from './components/Bheader.vue';
+import BHeader from './components/BHeader.vue';
 import CountBookAPI from './views/CountBookAPI.vue'; 
 
 export default {
   name: 'App',
   components: {
-    Bheader,
+    BHeader,
     // eslint-disable-next-line vue/no-unused-components
     CountBookAPI,
   },
